@@ -16,10 +16,30 @@ https://github.com/Samia2001/CUET-ONEPortal/assets/77110531/9fc91a7d-3337-45e1-a
 ![image](https://github.com/Samia2001/CUET-ONEPortal/assets/77110531/1737bb5d-a24b-4dfe-b566-be7db7ceec3c)
 
 ### Profile
-![image](https://github.com/Samia2001/CUET-ONEPortal/assets/77110531/5b93cce3-0c60-4e8e-83f1-0046a76e262b)
+![image](https://github.com/Samia2001/CUET-ONEPortal/assets/77110531/ec603128-a23f-4e49-95aa-c726886a2280)
 
 ### Classroom
 ![image](https://github.com/Samia2001/CUET-ONEPortal/assets/77110531/db801ee3-7ff1-4795-9e64-979b85afbf02)
+
+### Attendance
+![image](https://github.com/Samia2001/CUET-ONEPortal/assets/77110531/88d81f9e-fdb5-40a2-b083-2b5263101b52)
+
+### Submit Complaint
+![image](https://github.com/Samia2001/CUET-ONEPortal/assets/77110531/e810b6f0-fa3e-4d37-a712-8a69cd7f391a)
+
+### View Complaint
+![363856196_1981797022191129_702648333742086366_n](https://github.com/Samia2001/CUET-ONEPortal/assets/77110531/f49fe80c-5928-4d22-9686-737975606bba)
+
+### Post Notice
+![362697969_556857303148350_2313479753965565895_n](https://github.com/Samia2001/CUET-ONEPortal/assets/77110531/2f1162a2-3c81-48da-9fcd-a6b47080cc1b)
+
+### View Notice
+![362608515_260079503400709_5406755961854772009_n](https://github.com/Samia2001/CUET-ONEPortal/assets/77110531/e02927e0-d301-4ab3-8ae4-2b15fef83fce)
+
+
+
+
+
 
 
 
