@@ -9,7 +9,10 @@ Club section: Included a club section for users to join clubs, view club details
 
 **Notice and Events:** Enabled authorities to post notices and events, which are visible to users. This feature keeps the university community informed about important updates and upcoming events.
 
- https://github.com/Samia2001/CUET_ONE_FIXIT/assets/77110531/fbd7b5ca-0272-4584-892f-196a1598c2e8
+
+https://github.com/Samia2001/CUET-ONEPortal/assets/77110531/9fc91a7d-3337-45e1-ab25-0eb13f20fdc9
+
+
 
 
  
